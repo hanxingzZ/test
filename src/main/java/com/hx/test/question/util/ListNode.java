@@ -24,8 +24,8 @@ public class ListNode<T> {
 		}
 		ListNode<?> temp = node;
 		System.out.print("打印链表：");
-		while (temp.next != null) {
-			System.out.print(temp.next.val + " ");
+		while (temp != null) {
+			System.out.print(temp.val + " ");
 			temp = temp.next;
 		}
 	}
