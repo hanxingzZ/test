@@ -16,7 +16,7 @@ import com.hx.test.question.util.TreeNode;
 /**
  * 
  * @description: TODO
- * @author : 韩兴(xing.han@ucarinc.com)
+ * @author : 韩兴(610625296@qq.com)
  * @date 创建时间：2020年4月2日 下午3:41:50
  * @version 1.0
  */
@@ -26,7 +26,7 @@ public class Main {
 	 * 
 	 * Description: 翻转链表
 	 * 
-	 * @author 韩兴（xing.han@ucarinc.com）
+	 * @author 韩兴（610625296@qq.com）
 	 * @date 2020年4月2日 下午4:24:06
 	 * @param
 	 * @return
@@ -48,7 +48,7 @@ public class Main {
 	 * 
 	 * Description: 判断有效括号
 	 * 
-	 * @author 韩兴（xing.han@ucarinc.com）
+	 * @author 韩兴（610625296@qq.com）
 	 * @date 2020年4月2日 下午5:51:33
 	 * @param
 	 * @return
@@ -75,7 +75,7 @@ public class Main {
 	 * 
 	 * Description: 返回第k大值
 	 * 
-	 * @author 韩兴（xing.han@ucarinc.com）
+	 * @author 韩兴（610625296@qq.com）
 	 * @date 2020年4月2日 下午5:51:17
 	 * @param
 	 * @return
@@ -99,7 +99,7 @@ public class Main {
 	 * 
 	 * Description: 两个字符串是否有效异位（字母都相同 位置不同） 1.map 2.数组
 	 * 
-	 * @author 韩兴（xing.han@ucarinc.com）
+	 * @author 韩兴（610625296@qq.com）
 	 * @date 2020年4月3日 上午9:46:12
 	 * @param
 	 * @return
@@ -139,7 +139,7 @@ public class Main {
 	 * 
 	 * Description: 两数之和
 	 * 
-	 * @author 韩兴（xing.han@ucarinc.com）
+	 * @author 韩兴（610625296@qq.com）
 	 * @date 2020年4月3日 上午10:18:51
 	 * @param
 	 * @return
@@ -160,7 +160,7 @@ public class Main {
 	 * 
 	 * Description: 三数之和=0
 	 * 
-	 * @author 韩兴（xing.han@ucarinc.com）
+	 * @author 韩兴（610625296@qq.com）
 	 * @date 2020年4月3日 上午11:03:08
 	 * @param
 	 * @return
@@ -214,7 +214,7 @@ public class Main {
 	 * 
 	 * Description: 验证二叉搜索树
 	 * 
-	 * @author 韩兴（xing.han@ucarinc.com）
+	 * @author 韩兴（610625296@qq.com）
 	 * @date 2020年4月3日 上午11:17:23
 	 * @param
 	 * @return
@@ -262,7 +262,7 @@ public class Main {
 	 * 
 	 * Description: 二叉树层序遍历
 	 * 
-	 * @author 韩兴（xing.han@ucarinc.com）
+	 * @author 韩兴（610625296@qq.com）
 	 * @date 2020年4月3日 下午2:15:39
 	 * @param
 	 * @return
@@ -292,7 +292,7 @@ public class Main {
 	 * 
 	 * Description: fun9 变种 将每一层分别打印
 	 * 
-	 * @author 韩兴（xing.han@ucarinc.com）
+	 * @author 韩兴（610625296@qq.com）
 	 * @date 2020年4月3日 下午2:24:12
 	 * @param
 	 * @return
@@ -329,7 +329,7 @@ public class Main {
 	 * 
 	 * Description: 二叉树的最小深度
 	 * 
-	 * @author 韩兴（xing.han@ucarinc.com）
+	 * @author 韩兴（610625296@qq.com）
 	 * @date 2020年4月3日 下午2:34:06
 	 * @param
 	 * @return
@@ -348,7 +348,7 @@ public class Main {
 	 * 
 	 * Description: 二叉树最大深度
 	 * 
-	 * @author 韩兴（xing.han@ucarinc.com）
+	 * @author 韩兴（610625296@qq.com）
 	 * @date 2020年4月3日 下午2:37:23
 	 * @param
 	 * @return
@@ -361,7 +361,7 @@ public class Main {
 	 * 
 	 * Description: 生成n对有效括号
 	 * 
-	 * @author 韩兴（xing.han@ucarinc.com）
+	 * @author 韩兴（610625296@qq.com）
 	 * @date 2020年4月3日 下午3:53:35
 	 * @param
 	 * @return
@@ -388,7 +388,7 @@ public class Main {
 	 * 
 	 * Description: 算术平方根
 	 * 
-	 * @author 韩兴（xing.han@ucarinc.com）
+	 * @author 韩兴（610625296@qq.com）
 	 * @date 2020年4月3日 下午4:08:03
 	 * @param
 	 * @return
@@ -417,7 +417,7 @@ public class Main {
 	 * 
 	 * Description: 统计1的个数
 	 * 
-	 * @author 韩兴（xing.han@ucarinc.com）
+	 * @author 韩兴（610625296@qq.com）
 	 * @date 2020年4月3日 下午4:12:06
 	 * @param
 	 * @return
@@ -436,7 +436,7 @@ public class Main {
 	 * 
 	 * Description: fun14变种 判断是否是2的次幂
 	 * 
-	 * @author 韩兴（xing.han@ucarinc.com）
+	 * @author 韩兴（610625296@qq.com）
 	 * @date 2020年4月3日 下午4:12:22
 	 * @param
 	 * @return
@@ -449,7 +449,7 @@ public class Main {
 	/**
 	 * 
 	 * Description: fun14变种 范围内的count1  利用动态转移方程  f(x)=f(x/2)+x%2 => f(x) = f(x>>1) + x&1
-	 * @author 韩兴（xing.han@ucarinc.com）
+	 * @author 韩兴（610625296@qq.com）
 	 * @date 2020年4月3日 下午5:54:08
 	 * @param 
 	 * @return
